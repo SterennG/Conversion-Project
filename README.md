@@ -21,4 +21,13 @@ This project is a machine learning competition aimed at predicting the conversio
 
 ## Tech Stack
 - Python (Jupyter Notebook)
-- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+
+---
+Auteure : Stérenn GÉLÉOC 
+
+Projet réalisé dans le cadre de la certification CDSD (Concepteur Développeur en Science des Données) \
+Bloc 3 - Analyse prédictive de données structurées par l'intelligence artificielle
+
+JEDHA | Fullstack Data Science -  Supervised Machine Learning | 2025
